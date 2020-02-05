@@ -1,4 +1,4 @@
-##function in JS
+## function in JS
 
  - i will take about why JS make website more interactive .
  - access content : content of the page
